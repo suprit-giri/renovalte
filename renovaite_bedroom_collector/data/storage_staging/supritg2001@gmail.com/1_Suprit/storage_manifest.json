@@ -1,0 +1,23 @@
+{
+  "system": "RenovAIte Germany - Cloud Staging Engine",
+  "schema_version": "2.0.0",
+  "project_id": "afbef0e8-88e2-4ded-8de2-58cb4b6ae005",
+  "user_id": "e6b98a58-7d5a-41a7-b061-255d0025823d",
+  "user_email": "supritg2001@gmail.com",
+  "user_name": "Suprit",
+  "project_number": 1,
+  "project_name": "AAa",
+  "postal_code": "60529",
+  "prepared_at": "2026-11-13T17:41:29.062599+00:00",
+  "storage_status": "prepared_for_cloud_upload",
+  "target_s3_prefix": "supritg2001@gmail.com/1_Suprit/",
+  "files": {
+    "json_payload": {
+      "filename": "json_1.json",
+      "relative_path": "json_1.json",
+      "size_bytes": 1373
+    },
+    "images_count": 0,
+    "images": []
+  }
+}

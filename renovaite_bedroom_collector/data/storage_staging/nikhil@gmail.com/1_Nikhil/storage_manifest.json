@@ -1,0 +1,48 @@
+{
+  "system": "RenovAIte Germany - Cloud Staging Engine",
+  "schema_version": "2.0.0",
+  "project_id": "ac15cd5f-338e-4efe-a713-298c67dd1db2",
+  "user_id": "39da3e3b-f3e5-43d6-b83e-85d05ea83ddd",
+  "user_email": "nikhil@gmail.com",
+  "user_name": "Nikhil",
+  "project_number": 1,
+  "project_name": "P1",
+  "postal_code": "60438",
+  "prepared_at": "2026-11-13T17:32:33.527663+00:00",
+  "storage_status": "prepared_for_cloud_upload",
+  "target_s3_prefix": "nikhil@gmail.com/1_Nikhil/",
+  "files": {
+    "json_payload": {
+      "filename": "json_1.json",
+      "relative_path": "json_1.json",
+      "size_bytes": 1356
+    },
+    "images_count": 3,
+    "images": [
+      {
+        "file_number": 1,
+        "original_name": "img_1.png",
+        "stored_name": "img_1.png",
+        "relative_path": "img_1.png",
+        "size_bytes": 76463,
+        "mime_type": "image/png"
+      },
+      {
+        "file_number": 2,
+        "original_name": "img_2.png",
+        "stored_name": "img_2.png",
+        "relative_path": "img_2.png",
+        "size_bytes": 80937,
+        "mime_type": "image/png"
+      },
+      {
+        "file_number": 3,
+        "original_name": "Screenshot 2025-09-30 171030.png",
+        "stored_name": "img_3.png",
+        "relative_path": "img_3.png",
+        "size_bytes": 47197,
+        "mime_type": "image/png"
+      }
+    ]
+  }
+}

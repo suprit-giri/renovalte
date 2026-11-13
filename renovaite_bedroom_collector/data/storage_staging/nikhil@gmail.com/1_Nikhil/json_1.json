@@ -1,0 +1,51 @@
+{
+  "export_metadata": {
+    "system": "RenovAIte Germany - Data Engine",
+    "schema_version": "1.0.0",
+    "timestamp": "2026-11-13",
+    "domain": "bedroom_renovation"
+  },
+  "user_profile": {
+    "user_full_name": "Nikhil",
+    "email": "nikhil@gmail.com"
+  },
+  "project_record": {
+    "project_metadata": {
+      "project_name": "P1",
+      "street_address": "BGR 50",
+      "city": "Frankfurt am Main",
+      "postal_code": "60438",
+      "federal_state": "Hessen",
+      "building_type": "Farmhouse / Bauernhaus",
+      "ownership_role": "Tenant (Mieter - requires landlord approval)"
+    },
+    "spatial_identification": {
+      "room_name": "room1",
+      "bedroom_usage": "Guest bedroom / Gästezimmer"
+    },
+    "now_twin_baseline": {
+      "existing_floor": "",
+      "existing_walls": "",
+      "existing_window": "",
+      "existing_heating": "",
+      "observed_defects": "",
+      "voice_transcript": "",
+      "photo_captions": ""
+    },
+    "dream_twin_envisioned": {
+      "target_style": "",
+      "target_floor": "",
+      "target_walls": "",
+      "target_window": "",
+      "heating_upgrade": "",
+      "built_in_storage": ""
+    },
+    "project_guardrails": {
+      "must_keep_elements": [
+        "Lamp"
+      ],
+      "target_timeline": "",
+      "general_notes": ""
+    }
+  }
+}
